@@ -14,3 +14,6 @@ performed using imitated PV. Finally, these two independent systems are integrat
 captured for six different comparative models. The results of this research depicts that, for domestic
 solar arrays, the combination of Single-Axis Tracking with MPPT provides a significant increase to
 the power output than using just the MPPT algorithm.
+
+
+![](integrated_system.jpg)
